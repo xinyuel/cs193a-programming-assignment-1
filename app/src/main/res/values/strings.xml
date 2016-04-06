@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hw1NumGuessing</string>
+    <string name="start_button">Start New Game</string>
+</resources>
